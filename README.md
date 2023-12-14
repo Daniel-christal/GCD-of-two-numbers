@@ -29,7 +29,7 @@ def gcd():
 ```
 
 ## Output:
-![image](https://github.com/Daniel-christal/GCD-of-two-numbers/assets/145742847/857bfb80-081b-4001-a7bc-9b26a7d0bf89)
+![image](https://github.com/Daniel-christal/GCD-of-two-numbers/assets/145742847/5f468280-3598-44c7-b5a4-e14d8300d5b0)
 
 
 
